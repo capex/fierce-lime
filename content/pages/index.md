@@ -5,9 +5,9 @@ sections:
     type: section_hero
     title: The perfect middle between users and business.
     image: images/5.jpg
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Cumulative enables businesses to arrive at the perfect middle between user
+      needs and business goals. Lets find your perfect middle.
     actions:
       - label: Get Started
         url: /docs
